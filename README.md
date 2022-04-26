@@ -6,7 +6,8 @@
 
 <div align='center'>
  
-### Junior Full Stack Developer with design & art knowledges focused on front-end. 
+### Junior Full Stack Developer with design & art knowledges focused on front-end.
+My name is Juanma. I am learning new things every day, and I am open to anything, so don't hesitate on contanting me for anything. Here you will find my projects. 
  <br/>
     
   <div>
@@ -52,5 +53,5 @@
 
   <a href="mailto:juanmaxp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juanma-stella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+    
 </div>
