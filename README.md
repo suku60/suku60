@@ -16,9 +16,10 @@
     <img src='https://github-profile-trophy.vercel.app/?username=suku60&row=1&theme=radical'>
   </a>
   <img height='125em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=suku60&theme=radical'>
-
----
 <div style="display: inline_block">
+
+ #
+
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypesScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 
@@ -35,8 +36,8 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 
-#
-  <!-- <img align="right" alt="Rafael-pic" height="150" style="border-radius:50px;" src="> -->
+ 
+ #
 </div>
 </div>
 <div align='center'>
