@@ -10,19 +10,19 @@
 My name is Juanma. I am learning new things every day, and I am open to anything, so don't hesitate on contanting me for anything. Here you will find my projects. 
  <br/>
     
-  <div>
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=suku60&theme=radical&show_icons=true&count_private=true&custom_title=My%20Github%20Stats'>
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=suku60&theme=radical&langs_count=10&layout=compact'>
+  <div align='center'>
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=suku60&theme=graywhite&show_icons=true&count_private=true&custom_title=My%20Github%20Stats'>
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=suku60&theme=graywhite&langs_count=10&layout=compact'>
   </div>
  <br/>
 
 
-  <div style={width:'100%'}>
-    <img width='100%' src='https://github-profile-trophy.vercel.app/?username=suku60&row=1&theme=radical'>
+   <div align='center'>
+    <img src='https://github-profile-trophy.vercel.app/?username=suku60&column=3&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C'>
   </div>
  <br/>
 
-  <img height='120em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=suku60&theme=radical'>
+  <img height='120em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=suku60&theme=oldie'>
 <div style="display: inline_block">
 
  #
