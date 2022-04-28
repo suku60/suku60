@@ -11,18 +11,18 @@ My name is Juanma. I am learning new things every day, and I am open to anything
  <br/>
     
   <div align='center'>
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=suku60&theme=graywhite&show_icons=true&count_private=true&custom_title=My%20Github%20Stats'>
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=suku60&theme=graywhite&langs_count=10&layout=compact'>
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=suku60&theme=graywhite&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&border_radius=0%'>&nbsp;&nbsp;&nbsp;
+    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=suku60&theme=graywhite&langs_count=10&layout=compact&border_radius=0%'>
   </div>
  <br/>
 
 
    <div align='center'>
-    <img src='https://github-profile-trophy.vercel.app/?username=suku60&column=3&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C'>
+    <img height='120em' src='https://github-profile-trophy.vercel.app/?username=suku60&column=3&theme=oldie&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-frame=true&margin-w=10'>&nbsp;&nbsp;&nbsp;
+  <img height='120em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=suku60&theme=oldie'>
   </div>
  <br/>
 
-  <img height='120em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=suku60&theme=oldie'>
 <div style="display: inline_block">
 
  #
