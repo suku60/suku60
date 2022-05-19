@@ -59,7 +59,7 @@ Frontend of a movies & series website reading from TheMovieBD's api. First appro
 ### Others
 Tomeme: a social network of memes. MERN full stack project. Frontend was my second approach to React. 
 <br/>
-<a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/home" target="_blank">Tomeme social network</a> 
+<a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/" target="_blank">Tomeme social network</a> 
 </div>
 
 
