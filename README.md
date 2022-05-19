@@ -51,6 +51,22 @@ My name is Juanma. I am learning new things every day, and I am open to anything
 </div>
 <div align='center'>
 
+# some projects
+### Latest
+Frontend of a movies & series website reading from TheMovieBD's api. First approach to Angular using Ionic Framework. 
+<br/>
+<a href="https://master.dogiqax5q9mxn.amplifyapp.com/tabs/tab3" target="_blank">Angular/Ionic Movie's Website</a>  
+### Others
+Tomeme: a social network of memes. MERN full stack project. Frontend was my second approach to React. 
+<br/>
+<a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/home" target="_blank">Tomeme social network</a> 
+</div>
+
+
+<div align='center'>
+<div align='center'>
+
+ <br/>
   <a href="mailto:juanmaxp2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juanma-stella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
