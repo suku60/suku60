@@ -53,13 +53,19 @@ My name is Juanma. I am learning new things every day, and I am open to anything
 
 # some projects
 ### Latest
-Frontend of a movies & series website reading from TheMovieBD's api. First approach to Angular using Ionic Framework. 
+A react component useful for many projects.
 <br/>
-<a href="https://master.dogiqax5q9mxn.amplifyapp.com/tabs/tab3" target="_blank">Angular/Ionic Movie's Website</a>  
+<a href="https://master.d25zrinbp7rhel.amplifyapp.com/" target="_blank">React component: 3d animated menu</a>  
 ### Others
-Tomeme: a social network of memes. MERN full stack project. Frontend was my second approach to React. 
+- Frontend of a movies & series website reading from TheMovieBD's api. First approach to Angular using Ionic Framework.
+ 
+<a href="https://master.dogiqax5q9mxn.amplifyapp.com/" target="_blank">Angular/Ionic Movie's Website</a> 
 <br/>
+ 
+- Tomeme: a social network of memes. MERN full stack project. Frontend was my second approach to React. 
+ 
 <a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/" target="_blank">Tomeme social network</a> 
+<br/>
 </div>
 
 
