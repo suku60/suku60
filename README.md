@@ -53,9 +53,10 @@ My name is Juanma. I am learning new things every day, and I am open to anything
 
 # some projects
 ### Latest
-A react component useful for many projects.
+Small-fast-2-hour-practice frontend of Rick and Morty's API.
 <br/>
-<a href="https://master.d25zrinbp7rhel.amplifyapp.com/" target="_blank">React component: 3d animated menu</a>  
+<a href="https://master.d1ccev8u2cmvlp.amplifyapp.com/" target="_blank">RICK AND MORTY CHARACTER STATUS CHECKER</a>  
+ 
 ### Others
 - Frontend of a movies & series website reading from TheMovieBD's api. First approach to Angular using Ionic Framework.
  
