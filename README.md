@@ -63,7 +63,7 @@ Small-fast-2-hour-practice frontend of Rick and Morty's API.
 <a href="https://master.dogiqax5q9mxn.amplifyapp.com/" target="_blank">Angular/Ionic Movie's Website</a> 
 <br/>
  
-- Tomeme: a social network of memes. MERN full stack project. Frontend was my second approach to React. 
+- Tomeme: a social network of memes. MERN full stack project. A frontend that was my second approach to React. 
  
 <a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/" target="_blank">Tomeme social network</a> 
 <br/>
