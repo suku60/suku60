@@ -6,7 +6,7 @@
 
 <div align='center'>
  
-### Junior Full Stack Developer with design & art knowledges focused on front-end.
+### Full Stack Developer with design & art knowledges focused on front-end.
 My name is Juanma. I am learning new things every day, and I am open to anything, so don't hesitate on contacting me for anything. I have fallen in love with css and I'm devoted to master it. Here you will find my projects. 
  <br/>
     
