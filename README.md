@@ -9,11 +9,7 @@
 ### Full Stack Developer with design & art knowledges focused on front-end.
 My name is Juanma. I am learning new things every day, and I am open to anything, so don't hesitate on contacting me for anything. I have fallen in love with css and I'm devoted to master it. Here you will find my projects. 
  <br/>
-    
-  <div align='center'>
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api?username=suku60&theme=graywhite&show_icons=true&count_private=true&custom_title=My%20Github%20Stats&border_radius=0%'>&nbsp;&nbsp;&nbsp;
-    <img height='160em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=suku60&theme=graywhite&langs_count=10&layout=compact&border_radius=0%'>
-  </div>
+
  <br/>
 
 
