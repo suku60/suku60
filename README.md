@@ -49,18 +49,24 @@ My name is Juanma. I am learning new things every day, and I am open to anything
 
 # some projects
 ### Latest
-Small-fast-2-hour-practice frontend of Rick and Morty's API.
-<br/>
-<a href="https://master.d1ccev8u2cmvlp.amplifyapp.com/" target="_blank">RICK AND MORTY CHARACTER STATUS CHECKER</a>  
+
+know the keyCode. A website which helps developers easily telling them which keyCode corresponds to the pressed key.
+
+<a href="https://suku60.github.io/onkeydown/" target="_blank">know your keyCode</a>  
+ 
  
 ### Others
+- Small-fast-2-hour-practice frontend of Rick and Morty's API.
+
+<a href="https://master.d1ccev8u2cmvlp.amplifyapp.com/" target="_blank">RICK AND MORTY CHARACTER STATUS CHECKER</a>  
+ 
 - Frontend of a movies & series website reading from TheMovieBD's api. First approach to Angular using Ionic Framework.
  
 <a href="https://master.dogiqax5q9mxn.amplifyapp.com/" target="_blank">Angular/Ionic Movie's Website</a> 
 <br/>
  
-- Tomeme: a social network of memes. MERN full stack project. A frontend that was my second approach to React. 
- 
+- Tomeme: a social network of memes. MERN full stack project.
+
 <a href="https://develop.dvzjwfzqzlt10.amplifyapp.com/" target="_blank">Tomeme social network</a> 
 <br/>
 </div>
