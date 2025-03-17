@@ -1,8 +1,12 @@
-# :love_you_gesture: Welcome to my Github profile
+ # :love_you_gesture: Welcome to my Github profile
 
-I am Juanma, a web developer from Uruguay based in Valencia. I love arts, design, maths, code, and videogames. I like thinking outside the box and explore new approaches.
-<br/>
-Graduated as full stack developer in GeeksHubs Academy on April 2022, and ever since I've been doing online courses and repositories everyday in order to grow in every way of development.
+I am Juanma, a web developer from Uruguay currently based in Valencia. I have a passion for arts, design, maths, code, and videogames, and I love thinking outside the box and exploring new ways to approach problems.
+</br>
+I graduated as a full stack developer from GeeksHubs Academy in April 2022, and since then, I’ve been constantly learning and growing through online courses, personal projects, and open-source contributions. My focus is on frontend development, although I’m comfortable working across the stack.
+</br>
+I have experience with various technologies, including JavaScript, React, Next.js, WordPress, and Tailwind CSS, as well as hands-on work in Google Analytics dataLayer scripting and unit testing with tools like Selenium. I’ve worked on everything from maintaining and customizing WordPress sites to migrating and modernizing projects with Next.js, ensuring that both code quality and user experience are top-notch.
+</br>
+I enjoy tackling complex challenges and always aim to create scalable, maintainable, and user-friendly solutions. I'm always looking to improve and stay up-to-date with the latest trends and best practices in web development
 
 <div id="stack">
  
